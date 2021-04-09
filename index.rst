@@ -1,4 +1,4 @@
-.. title:: Nutanix Files Bootcamp
+.. title:: Healthfirst Intro to Nutanix Files
 
 .. toctree::
   :maxdepth: 2
